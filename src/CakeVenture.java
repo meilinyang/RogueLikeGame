@@ -1,7 +1,7 @@
 /*
  Roguelike Game,  An adventure to eat as much cake
  Using Java Swing
-    
+Resource:http://gamedevelopment.tutsplus.com/tutorials/how-to-make-your-first-roguelike--gamedev-13677
  First, generate the map.
  */
 
